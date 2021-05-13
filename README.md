@@ -22,3 +22,30 @@ Code tested on following environments, other version should also work:
 
 # For students from SJTU
 Please read [HEAR](EE369.md).
+
+# Result
+
+|      | Train accuracy | Test accuracy |
+| :--: | :------------: | :-----------: |
+|  Q1  |     97.38%     |    87.30%     |
+|  Q2  |     82.02%     |    80.50%     |
+|  Q3  |     97.65%     |    86.10%     |
+|  Q4  |     95.90%     |    87.30%     |
+
+|   Q5   | Train accuracy | Test accuracy |
+| :----: | :------------: | :-----------: |
+| Epoch0 |    90.363%     |    97.596%    |
+| Epoch1 |    97.404%     |    98.377%    |
+| Epoch2 |    98.137%     |    98.608%    |
+| Epoch3 |    98.589%     |    98.738%    |
+| Epoch4 |    98.821%     |    98.928%    |
+| Epoch5 |    99.017%     |    98.878%    |
+| Epoch6 |    99.229%     |    98.838%    |
+| Epoch7 |    99.289%     |    99.099%    |
+| Epoch8 |    99.332%     |    99.028%    |
+| Epoch9 |    99.447%     |    98.668%    |
+
+* Pytorch
+
+LeNet-5 for training.
+
